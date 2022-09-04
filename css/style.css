@@ -1,6 +1,6 @@
 .general_container {
-  width: 2500px;
-  height: 1350px;
+  width: 1900px;
+  height: 1000px;
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cedbe9+0,aac5de+8,3a84c3+31,3a84c3+31,6199c7+50,419ad6+59,4bb8f0+71,3a8bc2+93,26558b+100 */
   background: rgb(206, 219, 233); /* Old browsers */
   background: -moz-radial-gradient(
@@ -131,7 +131,7 @@
 }
 .item {
   width: 300px;
-  height: 1050px;
+  height: 700px;
   text-align: center;
   background-color: rgb(45, 163, 77);
   padding-top: 35px;
